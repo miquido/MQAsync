@@ -1,0 +1,11 @@
+._*
+.DS_Store
+.swiftpm
+.toolsCache
+.build
+/Packages
+/*.xcodeproj
+*.xccheckout
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
